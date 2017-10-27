@@ -1,2 +1,2 @@
 print " hi this is forst line"
-print "second line"
+print "second"
